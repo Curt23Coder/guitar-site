@@ -17,6 +17,4 @@ $(".bi-github").mouseleave(function(){
     $(".navbar-toggler").click(function(){
         sound.play();
     });
-    $(".navbar-toggler").click(function(){
-    $(".click").css("color", "#f4c087");
-    });
+  
