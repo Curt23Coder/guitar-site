@@ -176,12 +176,9 @@ img {
 .bi-github:hover {
     cursor: pointer;
 }
-h6 {
+.click {
     color: #fff;
     font-family: 'Lobster';
-}
-h6:hover {
-    color: #f4c087;
 }
 
 
